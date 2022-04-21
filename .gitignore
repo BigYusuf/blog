@@ -46,6 +46,5 @@ sanitymediumclone/node_modules
 
 # package files
 package.json
-package-lock.json
 yarn.lock
 sanity.json
